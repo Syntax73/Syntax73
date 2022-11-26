@@ -1,5 +1,7 @@
 ### Olá 👍
 
+- ⚡ Fun fact: ``console.log(('b' + 'a' + + 'a' + 'a').toLowerCase()) // banana``
+
 [![Syntax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syntax73&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
