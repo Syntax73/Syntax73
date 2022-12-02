@@ -2,7 +2,7 @@
 
 - ⚡ Fun fact: ``console.log(('b' + 'a' + + 'a' + 'a').toLowerCase()) // banana``
 
-[![Syntax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syntax73&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Syntax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syntax73&show_icons=true&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Syntax73/Syntax73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
