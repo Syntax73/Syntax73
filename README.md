@@ -4,6 +4,7 @@
 
 [![Syntax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syntax73&show_icons=true&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Syntax73/Syntax73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
