@@ -10,8 +10,3 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syntax73&show_icons=true&theme=synthwave&count_private=true" alt="Syntax's GitHub stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax73&layout=compact&theme=synthwave&count_private=true" alt="Top Langs">
-</div>
