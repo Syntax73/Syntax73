@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Syntax73&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-maciel-120259349)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-maciel-dev)
 
 ## About me :wave:
 
