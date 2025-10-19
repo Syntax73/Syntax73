@@ -3,7 +3,7 @@
 
 ## About me :wave:
 
-- Thinking...
+Full‑stack developer with practical experience in web and mobile development, working with modern technologies: front‑ends built with Vue.js/Nuxt and React, scalable back‑ends in Node.js using TypeScript, and cross‑platform mobile apps with Flutter. Experienced with relational databases (MySQL), REST and GraphQL API integration, SSR/SSG (Nuxt), CI/CD pipelines, and automated testing.
 
 ## Skills
 
