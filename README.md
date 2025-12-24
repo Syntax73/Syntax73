@@ -1,3 +1,4 @@
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=flat-square&logo=Codeberg&logoColor=white)](https://codeberg.org/Syntax73)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-maciel-dev)
 
 ## About me :wave:
